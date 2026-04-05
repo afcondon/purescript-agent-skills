@@ -1,0 +1,1616 @@
+{
+  "by_author": {
+    "JordanMartinez": [
+      {
+        "name": "halogen-svg-elems",
+        "rdeps": 1,
+        "score": 9,
+        "desc": ""
+      },
+      {
+        "name": "interpolate",
+        "rdeps": 1,
+        "score": 9,
+        "desc": ""
+      },
+      {
+        "name": "node-human-signals",
+        "rdeps": 1,
+        "score": 9,
+        "desc": ""
+      },
+      {
+        "name": "arrays-zipper",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "generate-values",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "halogen-hooks-extra",
+        "rdeps": 0,
+        "score": 8,
+        "desc": "Provides useful Halogen Hooks and other utilities commonly used in hooks (e.g. actions)."
+      },
+      {
+        "name": "json-codecs",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "node-execa",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "tree-rose",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "typelevel-rows",
+        "rdeps": 0,
+        "score": 8,
+        "desc": ""
+      }
+    ],
+    "artemis-prime": [
+      {
+        "name": "polymorphic-vectors",
+        "rdeps": 1,
+        "score": 1,
+        "desc": ""
+      },
+      {
+        "name": "applicative-phases",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "canvas-action",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fix-functor",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "foreign-readwrite",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "qualified-do",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "selective-functors",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      }
+    ],
+    "purefunctor": [
+      {
+        "name": "typelevel-lists",
+        "rdeps": 3,
+        "score": 3,
+        "desc": ""
+      },
+      {
+        "name": "uncurried-transformers",
+        "rdeps": 2,
+        "score": 2,
+        "desc": ""
+      },
+      {
+        "name": "dissect",
+        "rdeps": 1,
+        "score": 1,
+        "desc": ""
+      },
+      {
+        "name": "ssrs",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      }
+    ],
+    "rowtype-yoga": [
+      {
+        "name": "yoga-json",
+        "rdeps": 10,
+        "score": 30,
+        "desc": ""
+      },
+      {
+        "name": "untagged-union",
+        "rdeps": 8,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "literals",
+        "rdeps": 6,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "record-studio",
+        "rdeps": 5,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "yoga-tree",
+        "rdeps": 4,
+        "score": 4,
+        "desc": ""
+      },
+      {
+        "name": "forgetmenot",
+        "rdeps": 3,
+        "score": 3,
+        "desc": ""
+      },
+      {
+        "name": "arraybuffer-builder",
+        "rdeps": 1,
+        "score": 1,
+        "desc": ""
+      },
+      {
+        "name": "fixed-precision",
+        "rdeps": 1,
+        "score": 1,
+        "desc": ""
+      },
+      {
+        "name": "parsing-dataview",
+        "rdeps": 1,
+        "score": 1,
+        "desc": ""
+      },
+      {
+        "name": "fahrtwind",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fallback",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fetch",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fetch-argonaut",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fetch-core",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "fetch-yoga-json",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "lazy-joe",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "nanoid",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "protobuf",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "react-aria",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "react-basic-dom-beta",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "react-basic-storybook",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "react-virtuoso",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "tanstack-query",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "untagged-to-tagged",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "vitest",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "web-proletarian",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "webextension-polyfill",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "yoga-fetch",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "yoga-om",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "yoga-postgres",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "yoga-react-dom",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      },
+      {
+        "name": "yoga-subtlecrypto",
+        "rdeps": 0,
+        "score": 0,
+        "desc": ""
+      }
+    ],
+    "purescript (org)": [
+      {
+        "name": "prelude",
+        "rdeps": 547,
+        "score": 552,
+        "desc": "The PureScript Prelude"
+      },
+      {
+        "name": "maybe",
+        "rdeps": 381,
+        "score": 386,
+        "desc": ""
+      },
+      {
+        "name": "effect",
+        "rdeps": 272,
+        "score": 277,
+        "desc": ""
+      },
+      {
+        "name": "foldable-traversable",
+        "rdeps": 257,
+        "score": 262,
+        "desc": "Classes for foldable and traversable data structures"
+      },
+      {
+        "name": "tuples",
+        "rdeps": 249,
+        "score": 254,
+        "desc": ""
+      },
+      {
+        "name": "arrays",
+        "rdeps": 214,
+        "score": 219,
+        "desc": ""
+      },
+      {
+        "name": "either",
+        "rdeps": 212,
+        "score": 217,
+        "desc": ""
+      },
+      {
+        "name": "unsafe-coerce",
+        "rdeps": 162,
+        "score": 167,
+        "desc": ""
+      },
+      {
+        "name": "newtype",
+        "rdeps": 157,
+        "score": 162,
+        "desc": "Type class and functions for working with newtypes"
+      },
+      {
+        "name": "control",
+        "rdeps": 144,
+        "score": 149,
+        "desc": ""
+      },
+      {
+        "name": "strings",
+        "rdeps": 143,
+        "score": 148,
+        "desc": ""
+      },
+      {
+        "name": "transformers",
+        "rdeps": 134,
+        "score": 139,
+        "desc": ""
+      },
+      {
+        "name": "lists",
+        "rdeps": 127,
+        "score": 132,
+        "desc": ""
+      },
+      {
+        "name": "integers",
+        "rdeps": 105,
+        "score": 110,
+        "desc": ""
+      },
+      {
+        "name": "partial",
+        "rdeps": 101,
+        "score": 106,
+        "desc": "Utilities for working with partial functions"
+      },
+      {
+        "name": "ordered-collections",
+        "rdeps": 96,
+        "score": 101,
+        "desc": ""
+      },
+      {
+        "name": "foreign",
+        "rdeps": 93,
+        "score": 98,
+        "desc": ""
+      },
+      {
+        "name": "functions",
+        "rdeps": 92,
+        "score": 97,
+        "desc": ""
+      },
+      {
+        "name": "exceptions",
+        "rdeps": 88,
+        "score": 93,
+        "desc": ""
+      },
+      {
+        "name": "foreign-object",
+        "rdeps": 84,
+        "score": 89,
+        "desc": ""
+      },
+      {
+        "name": "record",
+        "rdeps": 82,
+        "score": 87,
+        "desc": "Functions for working with records and polymorphic labels"
+      },
+      {
+        "name": "bifunctors",
+        "rdeps": 72,
+        "score": 77,
+        "desc": "Bifunctors and biapplicatives"
+      },
+      {
+        "name": "tailrec",
+        "rdeps": 70,
+        "score": 75,
+        "desc": ""
+      },
+      {
+        "name": "typelevel-prelude",
+        "rdeps": 69,
+        "score": 74,
+        "desc": "Types and kinds for basic type-level programming"
+      },
+      {
+        "name": "datetime",
+        "rdeps": 55,
+        "score": 60,
+        "desc": ""
+      },
+      {
+        "name": "enums",
+        "rdeps": 50,
+        "score": 55,
+        "desc": ""
+      },
+      {
+        "name": "numbers",
+        "rdeps": 49,
+        "score": 54,
+        "desc": "Functions for working with Numbers"
+      },
+      {
+        "name": "refs",
+        "rdeps": 49,
+        "score": 54,
+        "desc": ""
+      },
+      {
+        "name": "identity",
+        "rdeps": 46,
+        "score": 51,
+        "desc": ""
+      },
+      {
+        "name": "unfoldable",
+        "rdeps": 43,
+        "score": 48,
+        "desc": ""
+      },
+      {
+        "name": "quickcheck",
+        "rdeps": 16,
+        "score": 41,
+        "desc": ""
+      },
+      {
+        "name": "console",
+        "rdeps": 33,
+        "score": 38,
+        "desc": ""
+      },
+      {
+        "name": "profunctor",
+        "rdeps": 31,
+        "score": 36,
+        "desc": ""
+      },
+      {
+        "name": "st",
+        "rdeps": 30,
+        "score": 35,
+        "desc": "The ST effect, for safe local mutation"
+      },
+      {
+        "name": "type-equality",
+        "rdeps": 29,
+        "score": 34,
+        "desc": ""
+      },
+      {
+        "name": "free",
+        "rdeps": 28,
+        "score": 33,
+        "desc": ""
+      },
+      {
+        "name": "safe-coerce",
+        "rdeps": 28,
+        "score": 33,
+        "desc": ""
+      },
+      {
+        "name": "gen",
+        "rdeps": 23,
+        "score": 28,
+        "desc": ""
+      },
+      {
+        "name": "lazy",
+        "rdeps": 22,
+        "score": 27,
+        "desc": ""
+      },
+      {
+        "name": "nonempty",
+        "rdeps": 22,
+        "score": 27,
+        "desc": ""
+      },
+      {
+        "name": "validation",
+        "rdeps": 2,
+        "score": 27,
+        "desc": ""
+      },
+      {
+        "name": "parallel",
+        "rdeps": 21,
+        "score": 26,
+        "desc": ""
+      },
+      {
+        "name": "invariant",
+        "rdeps": 14,
+        "score": 19,
+        "desc": ""
+      },
+      {
+        "name": "distributive",
+        "rdeps": 12,
+        "score": 17,
+        "desc": ""
+      },
+      {
+        "name": "functors",
+        "rdeps": 12,
+        "score": 17,
+        "desc": "Functor products, coproducts, and composition"
+      },
+      {
+        "name": "filterable",
+        "rdeps": 11,
+        "score": 16,
+        "desc": "Classes for filterable and witherable data structures"
+      },
+      {
+        "name": "const",
+        "rdeps": 9,
+        "score": 14,
+        "desc": ""
+      },
+      {
+        "name": "contravariant",
+        "rdeps": 8,
+        "score": 13,
+        "desc": ""
+      },
+      {
+        "name": "exists",
+        "rdeps": 7,
+        "score": 12,
+        "desc": "Existential types as a library"
+      },
+      {
+        "name": "random",
+        "rdeps": 7,
+        "score": 12,
+        "desc": ""
+      },
+      {
+        "name": "catenable-lists",
+        "rdeps": 5,
+        "score": 10,
+        "desc": ""
+      },
+      {
+        "name": "lcg",
+        "rdeps": 5,
+        "score": 10,
+        "desc": ""
+      },
+      {
+        "name": "graphs",
+        "rdeps": 3,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "json",
+        "rdeps": 2,
+        "score": 7,
+        "desc": ""
+      },
+      {
+        "name": "orders",
+        "rdeps": 1,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "semirings",
+        "rdeps": 1,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "assert",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "minibench",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "psci-support",
+        "rdeps": 0,
+        "score": 5,
+        "desc": "Support module for the PSCI interactive mode"
+      }
+    ],
+    "purescript-contrib (org)": [
+      {
+        "name": "aff",
+        "rdeps": 132,
+        "score": 137,
+        "desc": "Asynchronous effect monad"
+      },
+      {
+        "name": "nullable",
+        "rdeps": 84,
+        "score": 89,
+        "desc": "A library for dealing with nulls"
+      },
+      {
+        "name": "profunctor-lenses",
+        "rdeps": 22,
+        "score": 47,
+        "desc": ""
+      },
+      {
+        "name": "arraybuffer-types",
+        "rdeps": 29,
+        "score": 34,
+        "desc": ""
+      },
+      {
+        "name": "argonaut",
+        "rdeps": 8,
+        "score": 33,
+        "desc": "PureScript's implementation of Argonaut"
+      },
+      {
+        "name": "argonaut-core",
+        "rdeps": 26,
+        "score": 31,
+        "desc": "Core of the purescript-argonaut library, providing basic types, folds, and combinators for `Json`"
+      },
+      {
+        "name": "js-promise-aff",
+        "rdeps": 6,
+        "score": 31,
+        "desc": ""
+      },
+      {
+        "name": "affjax",
+        "rdeps": 4,
+        "score": 29,
+        "desc": "An asynchronous AJAX library built using Aff."
+      },
+      {
+        "name": "optparse",
+        "rdeps": 2,
+        "score": 27,
+        "desc": ""
+      },
+      {
+        "name": "argonaut-codecs",
+        "rdeps": 20,
+        "score": 25,
+        "desc": ""
+      },
+      {
+        "name": "parsing",
+        "rdeps": 13,
+        "score": 18,
+        "desc": ""
+      },
+      {
+        "name": "unicode",
+        "rdeps": 13,
+        "score": 18,
+        "desc": "Unicode character functions."
+      },
+      {
+        "name": "avar",
+        "rdeps": 12,
+        "score": 17,
+        "desc": "Low-level interface for asynchronous variables"
+      },
+      {
+        "name": "colors",
+        "rdeps": 12,
+        "score": 17,
+        "desc": ""
+      },
+      {
+        "name": "js-date",
+        "rdeps": 12,
+        "score": 17,
+        "desc": "PureScript library for native JavaScript `Date` values"
+      },
+      {
+        "name": "js-promise",
+        "rdeps": 12,
+        "score": 17,
+        "desc": ""
+      },
+      {
+        "name": "unsafe-reference",
+        "rdeps": 12,
+        "score": 17,
+        "desc": "Unsafe referential equality."
+      },
+      {
+        "name": "options",
+        "rdeps": 10,
+        "score": 15,
+        "desc": "PureScript Options"
+      },
+      {
+        "name": "http-methods",
+        "rdeps": 9,
+        "score": 14,
+        "desc": "HTTP method type"
+      },
+      {
+        "name": "js-uri",
+        "rdeps": 9,
+        "score": 14,
+        "desc": ""
+      },
+      {
+        "name": "media-types",
+        "rdeps": 9,
+        "score": 14,
+        "desc": "Internet media / content / MIME types"
+      },
+      {
+        "name": "now",
+        "rdeps": 9,
+        "score": 14,
+        "desc": "PureScript library for reading the current date and time value"
+      },
+      {
+        "name": "these",
+        "rdeps": 9,
+        "score": 14,
+        "desc": "Data type isomorphic to: \u03b1 \u2228 \u03b2 \u2228 (\u03b1 \u2227 \u03b2)"
+      },
+      {
+        "name": "css",
+        "rdeps": 8,
+        "score": 13,
+        "desc": "PureScript CSS preprocessor"
+      },
+      {
+        "name": "js-bigints",
+        "rdeps": 8,
+        "score": 13,
+        "desc": ""
+      },
+      {
+        "name": "freet",
+        "rdeps": 6,
+        "score": 11,
+        "desc": ""
+      },
+      {
+        "name": "string-parsers",
+        "rdeps": 6,
+        "score": 11,
+        "desc": ""
+      },
+      {
+        "name": "fork",
+        "rdeps": 5,
+        "score": 10,
+        "desc": ""
+      },
+      {
+        "name": "js-timers",
+        "rdeps": 5,
+        "score": 10,
+        "desc": "PureScript library for native JavaScript timers"
+      },
+      {
+        "name": "rationals",
+        "rdeps": 5,
+        "score": 10,
+        "desc": ""
+      },
+      {
+        "name": "uint",
+        "rdeps": 5,
+        "score": 10,
+        "desc": ""
+      },
+      {
+        "name": "float32",
+        "rdeps": 4,
+        "score": 9,
+        "desc": ""
+      },
+      {
+        "name": "react",
+        "rdeps": 4,
+        "score": 9,
+        "desc": "PureScript bindings for react"
+      },
+      {
+        "name": "arraybuffer",
+        "rdeps": 3,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "coroutines",
+        "rdeps": 3,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "formatters",
+        "rdeps": 3,
+        "score": 8,
+        "desc": ""
+      },
+      {
+        "name": "affjax-web",
+        "rdeps": 2,
+        "score": 7,
+        "desc": "An asynchronous AJAX library built using Aff that runs on the browser."
+      },
+      {
+        "name": "argonaut-generic",
+        "rdeps": 2,
+        "score": 7,
+        "desc": "Encoding and decoding functions for generic datatypes"
+      },
+      {
+        "name": "bigints",
+        "rdeps": 2,
+        "score": 7,
+        "desc": "Arbitrary length integers"
+      },
+      {
+        "name": "fixed-points",
+        "rdeps": 2,
+        "score": 7,
+        "desc": ""
+      },
+      {
+        "name": "int64",
+        "rdeps": 2,
+        "score": 7,
+        "desc": ""
+      },
+      {
+        "name": "react-dom",
+        "rdeps": 2,
+        "score": 7,
+        "desc": "PureScript bindings for react-dom"
+      },
+      {
+        "name": "routing",
+        "rdeps": 2,
+        "score": 7,
+        "desc": "purescript library for routing"
+      },
+      {
+        "name": "aff-bus",
+        "rdeps": 1,
+        "score": 6,
+        "desc": "Many-to-many broadcasting"
+      },
+      {
+        "name": "aff-coroutines",
+        "rdeps": 1,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "affjax-node",
+        "rdeps": 1,
+        "score": 6,
+        "desc": "An asynchronous AJAX library built using Aff that runs on Node.js."
+      },
+      {
+        "name": "argonaut-traversals",
+        "rdeps": 1,
+        "score": 6,
+        "desc": "Prisms, traversals, and zipper for the Argonaut `Json` type."
+      },
+      {
+        "name": "form-urlencoded",
+        "rdeps": 1,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "js-fetch",
+        "rdeps": 1,
+        "score": 6,
+        "desc": ""
+      },
+      {
+        "name": "quickcheck-laws",
+        "rdeps": 1,
+        "score": 6,
+        "desc": "Law tests for core classes"
+      },
+      {
+        "name": "uri",
+        "rdeps": 1,
+        "score": 6,
+        "desc": "A type-safe parser, printer, and ADT for URLs and URIs."
+      },
+      {
+        "name": "ace",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "concurrent-queues",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "js-abort-controller",
+        "rdeps": 0,
+        "score": 5,
+        "desc": "PureScript library for native JavaScript timers"
+      },
+      {
+        "name": "machines",
+        "rdeps": 0,
+        "score": 5,
+        "desc": "Mealy Machines in PureScript"
+      },
+      {
+        "name": "matryoshka",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "pathy",
+        "rdeps": 0,
+        "score": 5,
+        "desc": "A type-safe abstraction for platform-independent file paths"
+      },
+      {
+        "name": "precise",
+        "rdeps": 0,
+        "score": 5,
+        "desc": ""
+      },
+      {
+        "name": "strings-extra",
+        "rdeps": 0,
+        "score": 5,
+        "desc": "Additional String utilities"
+      }
+    ]
+  },
+  "classification": {
+    "js_wrapper": [
+      "affjax",
+      "axon",
+      "benchlib",
+      "blessed",
+      "canvas",
+      "canvas-action",
+      "cbor-stream",
+      "chameleon-halogen",
+      "chameleon-react-basic",
+      "concur-react",
+      "css-class-name-extractor",
+      "csv-stream",
+      "deku",
+      "dom-filereader",
+      "dom-indexed",
+      "dom-simple",
+      "dotenv",
+      "elmish",
+      "elmish-html",
+      "elmish-testing-library",
+      "elmish-time-machine",
+      "express",
+      "ezfetch",
+      "fahrtwind",
+      "fetch",
+      "fetch-argonaut",
+      "fetch-core",
+      "fetch-yoga-json",
+      "flame",
+      "framer-motion",
+      "gesso",
+      "gojs",
+      "golem-fetch",
+      "grain",
+      "grain-router",
+      "grain-virtualized",
+      "halogen",
+      "halogen-bootstrap5",
+      "halogen-canvas",
+      "halogen-css",
+      "halogen-declarative-canvas",
+      "halogen-echarts-simple",
+      "halogen-formless",
+      "halogen-helix",
+      "halogen-hooks",
+      "halogen-hooks-extra",
+      "halogen-infinite-scroll",
+      "halogen-store",
+      "halogen-storybook",
+      "halogen-subscriptions",
+      "halogen-svg-elems",
+      "halogen-typewriter",
+      "halogen-use-trigger-hooks",
+      "halogen-vdom",
+      "halogen-vdom-string-renderer",
+      "halogen-xterm",
+      "httpurple",
+      "humdrum",
+      "hyrule",
+      "ink",
+      "jelly",
+      "jelly-router",
+      "js-abort-controller",
+      "js-bigints",
+      "js-fetch",
+      "js-fileio",
+      "js-intl",
+      "js-iterators",
+      "js-maps",
+      "js-promise",
+      "js-promise-aff",
+      "jsdom",
+      "lumi-components",
+      "midi",
+      "nextjs",
+      "nextui",
+      "node-buffer",
+      "node-child-process",
+      "node-event-emitter",
+      "node-execa",
+      "node-fs",
+      "node-glob-basic",
+      "node-http",
+      "node-http2",
+      "node-human-signals",
+      "node-net",
+      "node-os",
+      "node-path",
+      "node-process",
+      "node-readline",
+      "node-sqlite3",
+      "node-stream-pipes",
+      "node-streams",
+      "node-tls",
+      "node-url",
+      "node-workerbees",
+      "node-zlib",
+      "ocarina",
+      "open-mkdirp-aff",
+      "optparse",
+      "pha",
+      "posix-types",
+      "postgresql",
+      "react-aria",
+      "react-basic",
+      "react-basic-classic",
+      "react-basic-dnd",
+      "react-basic-dom",
+      "react-basic-dom-beta",
+      "react-basic-emotion",
+      "react-basic-hooks",
+      "react-basic-storybook",
+      "react-dom",
+      "react-halo",
+      "react-icons",
+      "react-markdown",
+      "react-testing-library",
+      "react-virtuoso",
+      "recharts",
+      "rito",
+      "routing",
+      "spec-node",
+      "spec-reporter-xunit",
+      "tanstack-query",
+      "thermite-dom",
+      "ts-bridge",
+      "visx",
+      "vitest",
+      "web-clipboard",
+      "web-cssom",
+      "web-cssom-view",
+      "web-dom",
+      "web-dom-parser",
+      "web-dom-xpath",
+      "web-encoding",
+      "web-events",
+      "web-fetch",
+      "web-file",
+      "web-geometry",
+      "web-html",
+      "web-pointerevents",
+      "web-proletarian",
+      "web-promise",
+      "web-resize-observer",
+      "web-router",
+      "web-socket",
+      "web-storage",
+      "web-streams",
+      "web-touchevents",
+      "web-uievents",
+      "web-url",
+      "web-workers",
+      "web-xhr",
+      "webb-commandline",
+      "webb-directory",
+      "webb-file",
+      "webb-random",
+      "webgpu",
+      "whine-core",
+      "xterm",
+      "yoga-fetch",
+      "yoga-react-dom",
+      "yoga-subtlecrypto",
+      "yoga-tree-svg"
+    ],
+    "pure_ps": [
+      "abc-parser",
+      "ace",
+      "address-rfc2821",
+      "aff",
+      "aff-bus",
+      "aff-coroutines",
+      "aff-promise",
+      "aff-retry",
+      "affjax-node",
+      "affjax-web",
+      "ansi",
+      "apexcharts",
+      "applicative-phases",
+      "argonaut",
+      "argonaut-aeson-generic",
+      "argonaut-codecs",
+      "argonaut-core",
+      "argonaut-generic",
+      "argonaut-traversals",
+      "argparse-basic",
+      "array-builder",
+      "array-search",
+      "arraybuffer",
+      "arraybuffer-builder",
+      "arraybuffer-types",
+      "arrays",
+      "arrays-extra",
+      "arrays-zipper",
+      "ask",
+      "assert",
+      "assert-multiple",
+      "avar",
+      "b64",
+      "barbies",
+      "barlow-lens",
+      "bifunctors",
+      "bigints",
+      "bolson",
+      "bookhound",
+      "bower-json",
+      "call-by-name",
+      "cartesian",
+      "catenable-lists",
+      "chameleon",
+      "chameleon-styled",
+      "chameleon-transformers",
+      "channel",
+      "checked-exceptions",
+      "choku",
+      "classless",
+      "classless-arbitrary",
+      "classless-decode-json",
+      "classless-encode-json",
+      "classnames",
+      "codec",
+      "codec-argonaut",
+      "codec-json",
+      "colors",
+      "concur-core",
+      "concurrent-queues",
+      "console",
+      "const",
+      "contravariant",
+      "control",
+      "convertable-options",
+      "coroutines",
+      "css",
+      "css-frameworks",
+      "data-mvc",
+      "datetime",
+      "datetime-parsing",
+      "debounce",
+      "debug",
+      "decimals",
+      "default-values",
+      "deno",
+      "dissect",
+      "distributive",
+      "dodo-printer",
+      "droplet",
+      "dts",
+      "dual-numbers",
+      "dynamic-buffer",
+      "echarts-simple",
+      "effect",
+      "either",
+      "elmish-enzyme",
+      "elmish-hooks",
+      "email-validate",
+      "encoding",
+      "enums",
+      "env-names",
+      "environment",
+      "error",
+      "eta-conversion",
+      "exceptions",
+      "exists",
+      "exitcodes",
+      "expect-inferred",
+      "fakerjs",
+      "fallback",
+      "fast-vect",
+      "ffi-simple",
+      "fft",
+      "fft-js",
+      "filterable",
+      "fix-functor",
+      "fixed-points",
+      "fixed-precision",
+      "float32",
+      "fmt",
+      "foldable-traversable",
+      "foldable-traversable-extra",
+      "foreign",
+      "foreign-object",
+      "foreign-readwrite",
+      "forgetmenot",
+      "fork",
+      "form-urlencoded",
+      "formatters",
+      "free",
+      "freeap",
+      "freer-free",
+      "freet",
+      "functions",
+      "functor1",
+      "functors",
+      "fuzzy",
+      "gen",
+      "generate-values",
+      "generic-router",
+      "geojson",
+      "geometria",
+      "graphql-client",
+      "graphs",
+      "group",
+      "heckin",
+      "heterogeneous",
+      "homogeneous",
+      "http-methods",
+      "huffman",
+      "identity",
+      "identy",
+      "indexed-db",
+      "indexed-monad",
+      "int64",
+      "integers",
+      "interpolate",
+      "intersection-observer",
+      "invariant",
+      "jarilo",
+      "jelly-signal",
+      "jest",
+      "js-date",
+      "js-timers",
+      "js-uri",
+      "json",
+      "json-codecs",
+      "justifill",
+      "jwt",
+      "labeled-data",
+      "language-cst-parser",
+      "lazy",
+      "lazy-joe",
+      "lcg",
+      "leibniz",
+      "leveldb",
+      "liminal",
+      "linalg",
+      "lists",
+      "literals",
+      "logging",
+      "logging-journald",
+      "machines",
+      "maps-eager",
+      "marionette",
+      "marionette-react-basic-hooks",
+      "marked",
+      "matrices",
+      "matryoshka",
+      "maybe",
+      "media-types",
+      "meowclient",
+      "milkis",
+      "mimetype",
+      "minibench",
+      "mmorph",
+      "monad-control",
+      "monad-logger",
+      "monad-loops",
+      "monad-unlift",
+      "monoid-extras",
+      "monoidal",
+      "morello",
+      "mote",
+      "motsunabe",
+      "mvc",
+      "mysql",
+      "n3",
+      "nano-id",
+      "nanoid",
+      "naturals",
+      "nested-functor",
+      "newtype",
+      "nonempty",
+      "now",
+      "npm-package-json",
+      "nullable",
+      "numberfield",
+      "numbers",
+      "oak",
+      "oak-debug",
+      "object-maps",
+      "oooooooooorrrrrrrmm-lib",
+      "open-colors-scales-and-schemes",
+      "open-drawing",
+      "open-folds",
+      "open-foreign-generic",
+      "open-memoize",
+      "open-pairing",
+      "open-smolder",
+      "options",
+      "ordered-collections",
+      "ordered-set",
+      "orders",
+      "org-doc",
+      "owoify",
+      "pairs",
+      "parallel",
+      "parsing",
+      "parsing-dataview",
+      "partial",
+      "pathy",
+      "phaser",
+      "phylio",
+      "pipes",
+      "pirates-charm",
+      "play",
+      "pmock",
+      "point-free",
+      "pointed-list",
+      "polymorphic-vectors",
+      "precise",
+      "precise-datetime",
+      "prelude",
+      "prettier-printer",
+      "printf",
+      "priority-queue",
+      "profunctor",
+      "profunctor-lenses",
+      "protobuf",
+      "psa-utils",
+      "psci-support",
+      "punycode",
+      "pursfmt",
+      "qualified-do",
+      "quantities",
+      "quickcheck",
+      "quickcheck-combinators",
+      "quickcheck-laws",
+      "quickcheck-utf8",
+      "random",
+      "rationals",
+      "rdf",
+      "react",
+      "reactix",
+      "read",
+      "record",
+      "record-extra",
+      "record-extra-srghma",
+      "record-ptional-fields",
+      "record-studio",
+      "refs",
+      "remotedata",
+      "repr",
+      "resize-arrays",
+      "resize-observer",
+      "resource",
+      "resourcet",
+      "result",
+      "return",
+      "ring-modules",
+      "roman",
+      "rough-notation",
+      "routing-duplex",
+      "run",
+      "safe-coerce",
+      "safely",
+      "school-of-music",
+      "selection-foldable",
+      "selective-functors",
+      "semirings",
+      "shuffle",
+      "signal",
+      "simple-emitter",
+      "simple-i18n",
+      "simple-json",
+      "simple-json-generics",
+      "simple-ulid",
+      "sized-matrices",
+      "sized-vectors",
+      "slug",
+      "small-ffi",
+      "soundfonts",
+      "sparse-matrices",
+      "sparse-polynomials",
+      "spec",
+      "spec-discovery",
+      "spec-mocha",
+      "spec-quickcheck",
+      "splitmix",
+      "ssrs",
+      "st",
+      "statistics",
+      "strictlypositiveint",
+      "string-parsers",
+      "strings",
+      "strings-extra",
+      "stringutils",
+      "structured-logging",
+      "substitute",
+      "supply",
+      "svg-parser",
+      "systemd-journald",
+      "tagged",
+      "tailrec",
+      "tecton",
+      "tecton-halogen",
+      "test-unit",
+      "text-formatting",
+      "thermite",
+      "these",
+      "threading",
+      "tidy",
+      "tidy-codegen",
+      "tldr",
+      "toestand",
+      "transformation-matrix",
+      "transformers",
+      "transit",
+      "tree-rose",
+      "trivial-unfold",
+      "tuples",
+      "two-or-more",
+      "type-equality",
+      "typedenv",
+      "typelevel",
+      "typelevel-lists",
+      "typelevel-peano",
+      "typelevel-prelude",
+      "typelevel-regex",
+      "typelevel-rows",
+      "typisch",
+      "uint",
+      "ulid",
+      "uncurried-transformers",
+      "undefined",
+      "undefined-is-not-a-problem",
+      "unfoldable",
+      "unicode",
+      "unique",
+      "unlift",
+      "unordered-collections",
+      "unsafe-coerce",
+      "unsafe-reference",
+      "untagged-to-tagged",
+      "untagged-union",
+      "uri",
+      "url-immutable",
+      "url-regex-safe",
+      "uuid",
+      "uuidv4",
+      "validation",
+      "variant",
+      "variant-encodings",
+      "variant-gen",
+      "vectorfield",
+      "vectors",
+      "versions",
+      "webb-aff-list",
+      "webb-array",
+      "webb-channel",
+      "webb-map",
+      "webb-monad",
+      "webb-mutex",
+      "webb-parsing",
+      "webb-refer",
+      "webb-set",
+      "webb-slot",
+      "webb-stateful",
+      "webb-string",
+      "webb-test",
+      "webb-thread",
+      "webb-writer",
+      "webextension-polyfill",
+      "which",
+      "yaml-next",
+      "yoga-json",
+      "yoga-om",
+      "yoga-postgres",
+      "yoga-tree",
+      "yoga-tree-utils",
+      "z3",
+      "zipperarray"
+    ]
+  }
+}
