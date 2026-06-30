@@ -1,6 +1,6 @@
 # PureScript Agent Skills
 
-Three [Claude Code](https://claude.ai/claude-code) skills for AI-assisted PureScript development.
+Four [Claude Code](https://claude.ai/claude-code) skills for AI-assisted PureScript development.
 
 AI assistants generally infer PureScript from Haskell training data, which leads to suggesting packages that don't exist, idioms that don't apply, and missing the conventions that the PureScript community actually uses. These skills fix that.
 
@@ -28,6 +28,17 @@ AI-to-AI reference for the PureScript package ecosystem. Covers:
 - Ecosystem context: key organizations, authors, build tooling, `spago.yaml` config
 - Package set and registry structure
 
+### [`purescript-tooling.md`](.claude/skills/purescript-tooling.md) — Build & Tooling Skill
+
+Configuring, building, and debugging PureScript project infrastructure. Covers:
+
+- Spago: package-set model, dependency syntax (bare names, no version ranges), multi-package workspaces
+- Build, bundle, and test commands; build output layout
+- Module naming, file paths, and FFI file placement
+- npm integration and `"type": "module"` conventions
+- HTTPurple server setup, Halogen frontend setup, DuckDB FFI pattern
+- Common spago errors and a `.gitignore` for PureScript projects
+
 ### [`fp-police.md`](.claude/skills/fp-police.md) — Code Quality Auditor
 
 Grep-based audit tool that catches functional programming violations:
@@ -46,6 +57,7 @@ Copy the skills into your project's `.claude/skills/` directory:
 mkdir -p .claude/skills
 curl -sL https://raw.githubusercontent.com/afcondon/purescript-agent-skills/main/.claude/skills/purescript.md -o .claude/skills/purescript.md
 curl -sL https://raw.githubusercontent.com/afcondon/purescript-agent-skills/main/.claude/skills/purescript-ecosystem.md -o .claude/skills/purescript-ecosystem.md
+curl -sL https://raw.githubusercontent.com/afcondon/purescript-agent-skills/main/.claude/skills/purescript-tooling.md -o .claude/skills/purescript-tooling.md
 curl -sL https://raw.githubusercontent.com/afcondon/purescript-agent-skills/main/.claude/skills/fp-police.md -o .claude/skills/fp-police.md
 ```
 
@@ -61,6 +73,7 @@ Then in any Claude Code session:
 ```
 /purescript              # Load language idioms and pitfalls
 /purescript-ecosystem    # Load package guide and decision trees
+/purescript-tooling      # Load spago, build, bundling, and FFI tooling guidance
 /fp-police               # Run code quality audit
 ```
 
