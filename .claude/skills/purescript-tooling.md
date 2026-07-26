@@ -2,6 +2,8 @@
 
 You are configuring, building, or debugging PureScript project infrastructure. This skill covers spago, package sets, workspaces, bundling, npm integration, and FFI file layout.
 
+For *publishing* a package to the registry — naming, the preconditions `spago publish` enforces (which are stricter than `spago build`), and what consumers need afterwards — see `/purescript-publishing`.
+
 ---
 
 ## Spago (Build Tool & Package Manager)
