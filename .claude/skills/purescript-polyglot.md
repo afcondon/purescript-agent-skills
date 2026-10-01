@@ -195,7 +195,7 @@ So core may depend on a package only where the API it uses is the same in
 every column's set. Anything else, core owns (a small Parsec, its own
 `Rational`) or takes across the seam. A registry package that is JS-only can
 also be *ported* for the BEAM, as the purerl organisation's `-erl1` packages
-are: `purerl-tidal/vendor/js-bigints` is upstream's `.purs` plus a
+are: `littorina/vendor/js-bigints` is upstream's `.purs` plus a
 `BigInt.erl`, and each column's `extraPackages` picks its side.
 
 On the BEAM, compile with erlc **one file at a time** and
@@ -217,7 +217,7 @@ Haskell's `Int` wraps at 64 bits where PureScript's is 32 (JS) or unbounded
 always flagged in the code.** It goes in a module named for the reference,
 whose specification is "what the reference does": `Haskell.Int`,
 `Haskell.Integer`, `Haskell.Rational`, `Haskell.Double`, `Haskell.Parsec` (in
-`purerl-tidal/engine/core/src/Haskell/`), and some day perhaps `Julia.*` or
+`music/littorina/core/src/Haskell/`), and some day perhaps `Julia.*` or
 `Go.*`. Importing it *is* the flag. Never shadow `div`, `floor` or `Int`
 silently, and give no instance whose laws differ from the reference's (no
 `EuclideanRing` on `Haskell.Integer`: Euclidean `div` is not Haskell's).
@@ -230,7 +230,7 @@ silently, and give no instance whose laws differ from the reference's (no
   operation; `xorwise` is written in PureScript on top of it.
 - **Held to the reference by an oracle**, never hand-written expectations: a
   case file the reference itself evaluates into a golden (`make oracle-prim`
-  in purerl-tidal runs GHC, `Text.Parsec` and Tidal's own functions), checked
+  in littorina runs GHC, `Text.Parsec` and Tidal's own functions), checked
   in every column. It found two bugs in the Parsec port before PureScript
   ran.
 - **Keep it standalone** (`src/Haskell` imports nothing from the port), so it
