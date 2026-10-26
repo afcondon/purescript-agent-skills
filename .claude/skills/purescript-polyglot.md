@@ -251,8 +251,12 @@ Answer in this shape, and do not skip the first line:
    tax — it cannot change the answer.
 3. **If frontier:** estimate W and N from the proposed design, do the
    arithmetic, and give a number with the assumption stated.
-4. **If neither:** say stay on JS, and give the 4.45× so the recommendation has
-   evidence behind it rather than caution.
+4. **If neither:** say stay on JS, and give the structural reason: V8's two
+   decades of JIT against backends that emit curried closures and `Effect`
+   thunks. Say plainly that the same-algorithm comparison is **unmeasured**,
+   and quote no ratio. (An earlier version of this skill cited "4.45×". That
+   figure was retracted in `seam-tax.md`: it was 4.55×, it was 83 % displaced
+   compute, and it measures nothing about compilation.)
 
 Reach for `docs/kb/reference/choosing-a-backend.md` for the flow-chart and the
 worked examples, and `docs/kb/reference/seam-tax.md` for how the constants were
